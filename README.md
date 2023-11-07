@@ -1,4 +1,4 @@
-# Discord-Crypto-Trading-Simulator\
+# Discord-Crypto-Trading-Simulator
  This friendly Discord bot is your ticket to experiencing the excitement of BTC (Bitcoin) and ETH (Ethereum) trading without risking your hard-earned cash.
 
 Key Features:\
