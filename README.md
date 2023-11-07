@@ -24,5 +24,5 @@ You can use eth or ethereum\
 
 Or you can type\
 'btc price' for check currently btc price\
-'eth price' for check currently eth price
+'eth price' for check currently eth price\
 '!help'     to display commands
