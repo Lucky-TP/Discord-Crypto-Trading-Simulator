@@ -13,7 +13,7 @@ How to Use:
 -Enjoy the thrill of crypto trading without any financial risks!
 
 Command:
-!balance for the first time it initializes account and get virtual 100,000$
+!balance for the first time it initializes account and get virtual 100,000$\n
 !balance for the next time is to check the current balance
 You can use btc or bitcoin
 You can use eth or ethereum
