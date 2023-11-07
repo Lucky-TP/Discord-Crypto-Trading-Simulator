@@ -8,6 +8,7 @@ Key Features:\
 
 How to Use:\
 -Invite the bot to your Discord server.\
+-Add your discord bot token at lines 32 in bot.py\
 -Start trading with virtual funds by using simple commands.\
 -Monitor your portfolio, make strategic decisions, and learn from your trades.\
 -Enjoy the thrill of crypto trading without any financial risks!
